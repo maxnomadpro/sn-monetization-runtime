@@ -9,3 +9,8 @@ Cloud cron runtime for the SN Monetization sub-project (sister to `ClaudeEarnSel
 ## Public repo = unlimited GitHub Actions minutes.
 
 PAT: `ClaudeEarnSelf-gh-pat` (Keychain, `relayhop` user) — repo scope.
+
+
+## Maintenance
+
+This fork adds a small maintenance note for downstream automation.
